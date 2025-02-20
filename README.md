@@ -1,4 +1,3 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/AnaDamiao/1e93c6badf4bc7636aef92acd4e3f6e5/raw/ca7eed0c860e4c25e964dfad9b6d8754b4ffc42e/githubCard1.svg"/>
 <h1 align="left">Oi Oii Devs <img :wave: height="30px">:wave:</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anadamiao&color=green" alt="Profile views" /> </p>
 
