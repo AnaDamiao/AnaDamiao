@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anadamiao&color=green" alt="Profile views" /> </p>
 
 ## <img width="50" src="https://img.freepik.com/vetores-premium/nao-sei7_619097-115.jpg"> **Quem Sou eu?**
-Me chamo Ana Clara, Tenho 21 anos, Atualmente Trabalho como Desenvolvedora Junior na IOB. Estudo Ciência da Computação e sou apaixonada pela área Tech. Adoro jogos de FPS e tomar um bom drink. ✨
+Me chamo Ana Clara, Tenho 22 anos, Atualmente Trabalho como Desenvolvedora Junior na IOB. Estudo Ciência da Computação e sou apaixonada pela área Tech. Adoro jogos de FPS e tomar um bom drink. ✨
 
 ## **Linguagens e Ferramentas que utilizo no dia a dia**  
 
