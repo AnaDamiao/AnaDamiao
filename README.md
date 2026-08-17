@@ -49,5 +49,3 @@ Me chamo Ana Clara, Tenho 22 anos, Atualmente Trabalho como Desenvolvedora Junio
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnaDamiao/AnaDamiao/pacman-output/pacman-contribution-graph.svg?game=pacman">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AnaDamiao/AnaDamiao/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
-
-###
